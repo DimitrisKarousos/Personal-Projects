@@ -1,0 +1,15 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Build output
+build/
+cmake-build-*/
+
+# VS Code workspace settings
+.vscode/
