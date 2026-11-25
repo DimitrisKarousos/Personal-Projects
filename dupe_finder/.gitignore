@@ -1,0 +1,9 @@
+# Bytecode and caches
+__pycache__/
+*.pyc
+
+#IDEs
+.vscode/
+
+#Local
+.env
