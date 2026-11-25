@@ -1,7 +1,8 @@
+# Overview
 This is a small Python tool to notify the user for duplicate files in a given directory.
 Intended for use in small throwaway files, in windows computers.
 
-Setup:
+## Setup:
 Before using, open the '.env.example' file and set the desired directory path as the value of 'TRGT'.
 Save the file before closing and then rename it to '.env'.
 To execute, double-click the 'run' file.
